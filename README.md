@@ -12,3 +12,8 @@ simple python script for a command line voice assistant
 There are some specific keywords that the program searches for:
 search, mail, YouTube, etc.
 Include these keywords when giving commands
+
+
+
+###Credits
+Inspired by: Kalkin Raheja
